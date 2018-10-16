@@ -1,3 +1,8 @@
+/* copyright (c) Grant Rostig 2018
+   MIT license
+*/ 
+
+
 #include "../../Dropbox/src/utils/cpp_headers.h"
 #include "../../Dropbox/src/utils/math_grostig.h"
 #include <algorithm>
